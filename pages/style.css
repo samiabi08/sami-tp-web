@@ -1,0 +1,43 @@
+/* Style général du jeu */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin: 15px 0;
+}
+a {
+    display: inline-block;
+    padding: 10px 18px;
+    background-color: #1a2233;
+    color: #00ffcc;
+    border: 2px solid #00ffcc;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+    transition: 0.2s;
+}
+
+a:hover {
+    background-color: #00ffcc;
+    color: #1a2233;
+}
+
+.scene00 { background-color: #2b1d1d; padding: 20px; border-radius: 8px; } 
+.scene01 { background-color: #1b262c; padding: 20px; border-radius: 8px; } 
+.scene02 { background-color: #23272a; padding: 20px; border-radius: 8px; } 
+.scene03 { background-color: #2c221e; padding: 20px; border-radius: 8px; } 
+.scene04 { background-color: #1a2e26; padding: 20px; border-radius: 8px; } 
+.scene05 { background-color: #1c2b1a; padding: 20px; border-radius: 8px; }
+.scene06 { background-color: #3b1414; padding: 20px; border-radius: 8px; } 
+.scene07 { background-color: #14362b; padding: 20px; border-radius: 8px; } 
+.scene08 { background-color: #182836; padding: 20px; border-radius: 8px; } 
+.scene09 { background-color: #281a36; padding: 20px; border-radius: 8px; }
+.scene10 { background-color: #361a2e; padding: 20px; border-radius: 8px; } 
